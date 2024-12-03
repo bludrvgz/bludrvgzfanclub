@@ -1,0 +1,22 @@
+ui{
+	float: left;
+ list-style: none;
+}
+li a{
+	display: block;
+	width: 250px;
+	font-size: 1em;
+	text-align: center;
+	text-decoration: none;
+	color: red;
+	background-color: #333366;
+	padding: 5px 10 px;
+	margin: 0px 0px 4px 0px;
+	border-radius: 4px;
+	box-shadow: 2px 2px 2px gray;
+}
+	li a:hover
+	{
+		background: #333399;
+		color: #cc0000;
+	}
